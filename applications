@@ -1,0 +1,23 @@
+echo "Installing Applications."
+
+#MongoDB
+brew install mongodb
+#Robomongo is replaced by Robo 3T -> no cask available yet.
+brew cask install robomongo
+
+#IDE's
+#brew cask install intellij-idea
+#brew cask install pycharm
+
+#Commandline utils
+brew cask install iterm2
+
+#Utilities
+brew cask install shiftit
+
+#Chat and social
+brew cask install hipchat
+#brew cask install slack
+
+#Bittorrent client
+brew cask install transmission
