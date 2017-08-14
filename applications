@@ -21,3 +21,6 @@ brew cask install hipchat
 
 #Bittorrent client
 brew cask install transmission
+
+#Text Editors
+brew cask install atom
